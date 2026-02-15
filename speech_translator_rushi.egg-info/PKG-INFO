@@ -1,0 +1,15 @@
+Metadata-Version: 2.4
+Name: speech-translator-rushi
+Version: 0.1.0
+Summary: Real-time speech to English translator using microphone
+Author: Rushikesh Jagtap
+Requires-Python: >=3.8
+Requires-Dist: SpeechRecognition
+Requires-Dist: pyaudio
+Requires-Dist: mtranslate
+Requires-Dist: colorama
+Requires-Dist: pydub
+Dynamic: author
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary

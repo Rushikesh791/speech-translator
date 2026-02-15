@@ -1,0 +1,4 @@
+SpeechRecognition
+pydub
+mtranslate
+colorama

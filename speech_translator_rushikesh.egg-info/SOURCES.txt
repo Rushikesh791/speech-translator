@@ -1,0 +1,13 @@
+README.md
+pyproject.toml
+setup.py
+speech_translator/__init__.py
+speech_translator/cli.py
+speech_translator/core.py
+speech_translator/utils.py
+speech_translator_rushikesh.egg-info/PKG-INFO
+speech_translator_rushikesh.egg-info/SOURCES.txt
+speech_translator_rushikesh.egg-info/dependency_links.txt
+speech_translator_rushikesh.egg-info/entry_points.txt
+speech_translator_rushikesh.egg-info/requires.txt
+speech_translator_rushikesh.egg-info/top_level.txt

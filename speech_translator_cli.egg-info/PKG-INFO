@@ -1,0 +1,14 @@
+Metadata-Version: 2.4
+Name: speech-translator-cli
+Version: 0.1.0
+Summary: Real-time Speech to English Translator
+Author: Rushikesh Jagtap
+Requires-Python: >=3.7
+Requires-Dist: SpeechRecognition
+Requires-Dist: pyaudio
+Requires-Dist: mtranslate
+Requires-Dist: colorama
+Dynamic: author
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary

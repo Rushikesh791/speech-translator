@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+setup.py
+speech_translator/__init__.py
+speech_translator/core.py
+speech_translator_rushi.egg-info/PKG-INFO
+speech_translator_rushi.egg-info/SOURCES.txt
+speech_translator_rushi.egg-info/dependency_links.txt
+speech_translator_rushi.egg-info/entry_points.txt
+speech_translator_rushi.egg-info/requires.txt
+speech_translator_rushi.egg-info/top_level.txt

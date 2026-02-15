@@ -1,0 +1,34 @@
+Metadata-Version: 2.4
+Name: speech-translator-rushikesh
+Version: 0.1.0
+Summary: Real-time speech translator using SpeechRecognition
+Author: Rushikesh Jagtap
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: SpeechRecognition
+Requires-Dist: pydub
+Requires-Dist: mtranslate
+Requires-Dist: colorama
+Dynamic: author
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
+
+# Speech Translator
+
+Real-time microphone speech to English translator.
+
+## Install
+pip install speech-translator-cli
+
+## Usage
+speech-translator
+
+List microphones:
+speech-translator --list-mic
+
+Use specific mic:
+speech-translator --mic 1
+
